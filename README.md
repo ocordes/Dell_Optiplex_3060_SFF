@@ -1,7 +1,10 @@
-# Dell_Optiplex_3060_SFF
+# Dell Optiplex 3060 SFF
 
 
 This is a working configuration for a Dell Optioplex 3060 SFF, which supports MacOS Monterey (>=12.5.1) and also MacOS Ventura (beta).
+
+
+You can find a EFI-folder with all necessary parts.
 
 What works:
  * S-ATA disks
